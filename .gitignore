@@ -1,0 +1,5 @@
+docs/*
+*.d
+*.o
+src/polymorphism/draw
+

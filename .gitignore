@@ -2,4 +2,5 @@ docs/*
 *.d
 *.o
 src/polymorphism/draw
-
+src/visitor/visitor
+src/strategy/draw

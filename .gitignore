@@ -4,3 +4,4 @@ docs/*
 src/polymorphism/draw
 src/visitor/visitor
 src/strategy/draw
+src/command/command
